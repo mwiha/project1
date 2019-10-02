@@ -1,0 +1,40 @@
+#STORY {
+    width:1000px;
+    padding: 2px;
+    justify-content: center;
+}
+#head {
+       background-image: url("https://architecturebeast.com/wp-content/uploads/2014/08/Top_50_Modern_House_Designs_Ever_Built_featured_on_architecture_beast_56.jpg");
+       background-size: cover;
+       background-position: center center;
+       background-color: black;
+       height:500px;
+}
+h1{
+   text-align: center;
+   height: 800PX;
+   
+}
+
+.container {
+   width: 1800px;
+   text-align: center;
+   
+
+}
+
+
+.story{
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+}
+
+
+    
+    
+

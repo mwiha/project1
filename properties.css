@@ -1,0 +1,70 @@
+.container-row {
+    display: flex;
+}
+.houses-column img{
+    
+    width: 400px;
+    height: 400px;
+    overflow: auto;
+    margin: 50px;
+    margin-bottom: 10px;
+    
+}
+.houses-column p{
+   
+    margin-left: 70px;
+
+}
+
+.home{
+    text-align: center;
+}
+#properties {
+    background-color: whitesmoke;
+}
+
+    
+.head{
+    text-align: center;
+}
+
+#footer{
+    position: relative;
+        background-color: black;  
+        margin-top:400px;
+ }
+    
+footer{
+        display: inline;
+        color: white;
+        
+    
+    }
+
+    nav {
+        background-color: black;
+        height: 80px;
+    }
+    
+    nav > ul {
+        display: inline;
+        float:right;
+    }
+    
+    nav > ul > li {
+        display: inline;
+        font-size: 25px;
+        padding:30px;
+    }
+    nav>ul>li>a{
+        color: white;
+        font-size: 28px;
+        text-decoration: none;
+    }
+    nav>ul>li>a:hover{
+        color:green;
+        text-decoration: none;
+    }
+
+
+    

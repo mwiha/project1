@@ -1,0 +1,190 @@
+nav {
+    background-color: black;
+    height: 80px;
+}
+
+nav > ul {
+    display: inline;
+    float:right;
+}
+
+nav > ul > li {
+    display: inline;
+    font-size: 25px;
+    padding:30px;
+}
+nav>ul>li>a{
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+}
+nav>ul>li>a:hover{
+    color:green;
+    text-decoration: none;
+}
+#lpage{
+    background-image: url("/images/Top_50_Modern_House_Designs_Ever_Built_featured_on_architecture_beast_04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0,0,0, 0.5);
+
+}
+.header{
+    text-align: center;
+    color:BLACK;
+    margin-top: 400px;
+    font-size: 70px;
+}
+
+ h1{
+    text-align: center;
+    width: 1500px;
+    color:orangered;
+
+}
+#footer{
+    position: relative;
+    background-color: black;  
+    margin-top:400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+
+
+
+}
+
+footer{
+    display: inline;
+    color: white;
+    
+
+}
+
+#STORY {
+    width:1000px;
+    padding: 2px;
+    justify-content: center;
+}
+#head {
+       background-image: url("https://architecturebeast.com/wp-content/uploads/2014/08/Top_50_Modern_House_Designs_Ever_Built_featured_on_architecture_beast_56.jpg");
+       background-size: cover;
+       background-position: center center;
+       background-color: black;
+       height:500px;
+}
+h1{
+   text-align: center;
+   height: 800PX;
+   
+}
+
+.container {
+   width: 1800px;
+   text-align: center;
+   
+
+}
+
+
+.story{
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+}
+
+
+h1{
+    text-align: center;
+    height: 500PX;
+    
+ }
+
+ body{
+    background-image: url("https://www.smartertravel.com/uploads/2019/04/Seychelles-beach-1400x500.jpg");
+    background-size: cover;
+    background-position: center center;
+    height:500px;
+    background-repeat: no-repeat;
+
+   
+   
+   }
+   #footer{
+      position: relative;
+          background-color: black;  
+          margin-top:400px;
+   }
+      
+  footer{
+          display: inline;
+          color: white;
+          
+      
+      }
+
+      input[type=text], select {
+        width: 20%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius:2px;
+        cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+        background-color: #45a049;
+      }
+
+      form{
+          display: flex;
+          flex-direction: column;
+          
+      }
+      
+      .container-row {
+        display: flex;
+    }
+    .houses-column img{
+        
+        width: 400px;
+        height: 400px;
+        overflow: auto;
+        margin: 50px;
+        
+    }
+    #properties {
+        background-color: rgb(41, 98, 148);
+    }
+    .description-column {
+        text-align: center;
+        padding: 5px;
+        background-color: yellowgreen;
+        height: 400px;
+        margin: 50px;
+        width: 400px;
+        
+    }
+    .head{
+        text-align: center;
+    }
+    
+    
+        
+    

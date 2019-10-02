@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    height: 500PX;
+    
+ }
+
+ body{
+    background-image: url("https://www.smartertravel.com/uploads/2019/04/Seychelles-beach-1400x500.jpg");
+    background-size: cover;
+    background-position: center center;
+    height:500px;
+    background-repeat: no-repeat;
+
+   
+   
+   }
+   #footer{
+      position: relative;
+          background-color: black;  
+          margin-top:400px;
+   }
+      
+  footer{
+          display: inline;
+          color: white;
+          
+      
+      }
+
+      input[type=text], select {
+        width: 20%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius:2px;
+        cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+        background-color: #45a049;
+      }
+
+      form{
+          display: flex;
+          flex-direction: column;
+          
+      }
+      
+    
+
